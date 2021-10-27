@@ -4,7 +4,7 @@ challenge chatbot consumindo a Api do Github.
 # 💡 Info
 
 • Utilização da biblioteca Flurl.Http para resquisições HTTP. <br>
-• Api publicada no AWS EC2 Experience.
+• Api publicada no AWS EC2 Experience. <br>
 • Para consumir a Api do Github foi necessário criar um Token.<br>
 
 # 🎯 Do que se trata ...
