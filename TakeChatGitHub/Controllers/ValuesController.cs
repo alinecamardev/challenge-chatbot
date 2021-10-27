@@ -15,7 +15,7 @@ namespace challenge.Controllers
     public async Task<List<GitHubRepo>> Get()
     {
       IList<GitHubRepo> lista = await "https://api.github.com/users/takenet/repos?per_page=1000"
-        .WithBasicAuth("alinecamardev", "<<adicionar_token_do_github>>")
+        .WithBasicAuth("<<adicionar_usuario_github>>", "<<adicionar_token_do_github>>")
         .WithHeader("Accept", "application/vnd.github.v3+json")
         .WithHeaders(new { User_Agent = "product/1" })
         .GetJsonAsync<List<GitHubRepo>>();
