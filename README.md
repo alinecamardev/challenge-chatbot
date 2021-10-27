@@ -10,5 +10,5 @@ challenge chatbot consumindo a Api do Github.
 
 # 🎯 Do que se trata ...
 
-O challenge-chatbot é um chat automatizado que através de uma Api intermediária(challenge-chatbot) faz resquisição para Api do Github e tem como 
+O challenge-chatbot é um chat automatizado que através desta Api intermediária(challenge-chatbot) faz resquisição para Api do Github retornando como 
 resposta da requisição alguns repositórios que são consumidos na plataforma Blip. <br>
