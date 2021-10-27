@@ -1,3 +1,18 @@
-bin/
+
+#ignore thumbnails created by windows
+Thumbs.db
+#Ignore files build by Visual Studio
+
+*.user
+*.suo
+.suo
+[Bb]in
+[Dd]ebug*/
 obj/
+[Tt]est[Rr]esult*
+
+*.vs/
+*.vs/*
 .vs/
+.vs/*
+*.dat

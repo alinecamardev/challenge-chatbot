@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0/Q7Ez0GxhKE6LwWuKHOVO2yfdVqcDeATcJk45Es2CN1A9qBaG7gebl/QXhqRdEdov7AGf53eANDtmALAlhFuQ==",
+  "dgSpecHash": "Aa0Iuvr3wZA2NEEC0ALqSg6QxRzwEhxkDeNiqqJJ4SIwlCt+xSf7X4Y5J7p+J5b3L0J76ipbpYWcoYwDHh+Bqw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aline.camargos\\source\\repos\\TakeChatGitHub\\TakeChatGitHub\\challenge.csproj",
+  "projectFilePath": "C:\\Users\\aline.camargos\\Desktop\\TakeChatGitHub\\TakeChatGitHub\\challenge.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aline.camargos\\.nuget\\packages\\flurl\\3.0.2\\flurl.3.0.2.nupkg.sha512",
     "C:\\Users\\aline.camargos\\.nuget\\packages\\flurl.http\\3.2.0\\flurl.http.3.2.0.nupkg.sha512",

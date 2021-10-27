@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aline.camargos\\source\\repos\\TakeChatGitHub\\TakeChatGitHub\\challenge.csproj": {}
+    "C:\\Users\\aline.camargos\\Desktop\\TakeChatGitHub\\TakeChatGitHub\\challenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aline.camargos\\source\\repos\\TakeChatGitHub\\TakeChatGitHub\\challenge.csproj": {
+    "C:\\Users\\aline.camargos\\Desktop\\TakeChatGitHub\\TakeChatGitHub\\challenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aline.camargos\\source\\repos\\TakeChatGitHub\\TakeChatGitHub\\challenge.csproj",
+        "projectUniqueName": "C:\\Users\\aline.camargos\\Desktop\\TakeChatGitHub\\TakeChatGitHub\\challenge.csproj",
         "projectName": "challenge",
-        "projectPath": "C:\\Users\\aline.camargos\\source\\repos\\TakeChatGitHub\\TakeChatGitHub\\challenge.csproj",
+        "projectPath": "C:\\Users\\aline.camargos\\Desktop\\TakeChatGitHub\\TakeChatGitHub\\challenge.csproj",
         "packagesPath": "C:\\Users\\aline.camargos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aline.camargos\\source\\repos\\TakeChatGitHub\\TakeChatGitHub\\obj\\",
+        "outputPath": "C:\\Users\\aline.camargos\\Desktop\\TakeChatGitHub\\TakeChatGitHub\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",

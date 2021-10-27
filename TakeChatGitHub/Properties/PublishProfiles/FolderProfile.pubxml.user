@@ -5,6 +5,6 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\aline.camargos\Desktop\AWS\publicacao</_PublishTargetUrl>
-    <History>True|2021-10-27T16:13:36.4538536Z;True|2021-10-27T08:42:13.4023677-03:00;True|2021-10-27T08:42:03.2355023-03:00;True|2021-10-27T08:34:47.2467747-03:00;True|2021-10-27T07:55:13.8458164-03:00;True|2021-10-27T07:45:03.8642745-03:00;True|2021-10-26T20:12:05.9469675-03:00;True|2021-10-26T20:05:36.4140136-03:00;</History>
+    <History>True|2021-10-27T16:35:44.7611157Z;True|2021-10-27T13:13:36.4538536-03:00;True|2021-10-27T08:42:13.4023677-03:00;True|2021-10-27T08:42:03.2355023-03:00;True|2021-10-27T08:34:47.2467747-03:00;True|2021-10-27T07:55:13.8458164-03:00;True|2021-10-27T07:45:03.8642745-03:00;True|2021-10-26T20:12:05.9469675-03:00;True|2021-10-26T20:05:36.4140136-03:00;</History>
   </PropertyGroup>
 </Project>
