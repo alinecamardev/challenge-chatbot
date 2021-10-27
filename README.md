@@ -3,9 +3,9 @@ challenge chatbot consumindo a Api do Github.
 
 # 💡 Info
 
-• Para testar o projeto é necessário gerar um token do Github, estes parâmetros são passados na controller para consumir a Api do Github. <br>
 • Utilização da biblioteca Flurl.Http para resquisições HTTP. <br>
 • Api publicada no AWS EC2 Experience.
+• Para consumir a Api do Github foi necessário criar um Token.<br>
 
 # 🎯 Do que se trata ...
 
