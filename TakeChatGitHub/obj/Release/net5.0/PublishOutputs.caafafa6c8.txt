@@ -1,0 +1,14 @@
+C:\Users\aline.camargos\source\repos\TakeChatGitHub\TakeChatGitHub\obj\Release\net5.0\PubTmp\Out\challenge.exe
+C:\Users\aline.camargos\source\repos\TakeChatGitHub\TakeChatGitHub\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\aline.camargos\source\repos\TakeChatGitHub\TakeChatGitHub\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\aline.camargos\source\repos\TakeChatGitHub\TakeChatGitHub\obj\Release\net5.0\PubTmp\Out\challenge.dll
+C:\Users\aline.camargos\source\repos\TakeChatGitHub\TakeChatGitHub\obj\Release\net5.0\PubTmp\Out\challenge.deps.json
+C:\Users\aline.camargos\source\repos\TakeChatGitHub\TakeChatGitHub\obj\Release\net5.0\PubTmp\Out\challenge.runtimeconfig.json
+C:\Users\aline.camargos\source\repos\TakeChatGitHub\TakeChatGitHub\obj\Release\net5.0\PubTmp\Out\challenge.pdb
+C:\Users\aline.camargos\source\repos\TakeChatGitHub\TakeChatGitHub\obj\Release\net5.0\PubTmp\Out\Flurl.dll
+C:\Users\aline.camargos\source\repos\TakeChatGitHub\TakeChatGitHub\obj\Release\net5.0\PubTmp\Out\Flurl.Http.dll
+C:\Users\aline.camargos\source\repos\TakeChatGitHub\TakeChatGitHub\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\aline.camargos\source\repos\TakeChatGitHub\TakeChatGitHub\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\aline.camargos\source\repos\TakeChatGitHub\TakeChatGitHub\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aline.camargos\source\repos\TakeChatGitHub\TakeChatGitHub\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aline.camargos\source\repos\TakeChatGitHub\TakeChatGitHub\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
