@@ -14,4 +14,4 @@ resposta da requisição alguns repositórios que são consumidos na plataforma 
 
 # 📁 Arquivo Flow
 
-O arquivo flow se encontra dentro da pasta -> TakeChatGitHub
+O arquivo flow se encontra dentro da pasta -> TakeChatGitHub/Flow/chaton1.json
